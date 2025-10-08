@@ -1,0 +1,6 @@
+@WEBAPI_CRUD_DBFirstApproach_StudentModel_HostAddress = http://localhost:5254
+
+GET {{WEBAPI_CRUD_DBFirstApproach_StudentModel_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
